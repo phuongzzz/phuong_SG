@@ -2,7 +2,7 @@ tosca_definitions_version: cloudify_dsl_1_3
 
 imports:
   - types/cloudify/3.4/types.yaml
-  - types/phuongcellar.yaml
+  - types/nodecellar.yaml
   - plugins/openstack-plugin/1.4/plugin.yaml
   
 inputs:
